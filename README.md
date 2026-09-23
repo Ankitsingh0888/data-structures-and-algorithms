@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0049-group-anagrams) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/3524-find-x-value-of-array-i) |
 ## Math
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0049-group-anagrams) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
@@ -26,4 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0049-group-anagrams) |
+## Binary Search
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
