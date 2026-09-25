@@ -21,15 +21,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0049-group-anagrams) |
+| [1096-brace-expansion-ii](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0049-group-anagrams) |
+| [1096-brace-expansion-ii](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1096-brace-expansion-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0049-group-anagrams) |
+| [1096-brace-expansion-ii](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1096-brace-expansion-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,4 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
