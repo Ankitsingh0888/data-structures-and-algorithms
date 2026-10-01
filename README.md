@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0455-assign-cookies](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0455-assign-cookies) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3524-find-x-value-of-array-i](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/3524-find-x-value-of-array-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0049-group-anagrams) |
+| [0455-assign-cookies](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0455-assign-cookies) |
 | [1096-brace-expansion-ii](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1096-brace-expansion-ii) |
 ## Binary Search
 |  |
@@ -76,4 +78,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
