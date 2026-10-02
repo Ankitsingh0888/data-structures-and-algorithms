@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0022-generate-parentheses) |
 | [3524-find-x-value-of-array-i](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0049-group-anagrams) |
 | [0412-fizz-buzz](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0412-fizz-buzz) |
 | [1096-brace-expansion-ii](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1096-brace-expansion-ii) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
