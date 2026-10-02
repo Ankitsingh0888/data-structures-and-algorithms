@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0007-reverse-integer) |
+| [0412-fizz-buzz](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0412-fizz-buzz) |
 | [3524-find-x-value-of-array-i](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0049-group-anagrams) |
+| [0412-fizz-buzz](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0412-fizz-buzz) |
 | [1096-brace-expansion-ii](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0455-assign-cookies) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
