@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/3524-find-x-value-of-array-i) |
