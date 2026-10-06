@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0455-assign-cookies](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0455-assign-cookies) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0046-permutations) |
 | [1096-brace-expansion-ii](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
