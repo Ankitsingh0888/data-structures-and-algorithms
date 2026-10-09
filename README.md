@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0049-group-anagrams) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0455-assign-cookies](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
