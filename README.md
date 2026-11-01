@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0455-assign-cookies) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ankitsingh0888/data-structures-and-algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
